@@ -1,0 +1,23 @@
+register user
+create roles
+create payment plan
+create loan type and payment 
+mode of payment
+
+
+
+
+
+--- Dairy ----
+table
+    -Date
+    -Item
+    -Quantity
+    -buying_price
+    -selling_price
+    -expendicture
+    -received_amount
+
+---Accounts
+    -user_id
+    -amount
